@@ -1,24 +1,9 @@
-# README
+Hello Correctrice ou Correcteur :)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Pour faire des recherches dans cette BDD, voici quelques méthodes :
+=> Pour trouver les dogsitters d'un dog en particulier : Dog.find(6).dog_sitters
+=> Pour trouver les dogs promenés par un dogsitter en particulier : DogSitter.find(17).dogs
 
-Things you may want to cover:
+On pourra en parler plus longuement au téléphone !
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
